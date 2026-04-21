@@ -5,10 +5,10 @@ from justificacion3 import justificacion #Listo
 from objetivo4 import objetivo #Listo
 from marcoTeorico5 import marco #Listo
 from metodologia6 import metodologia
-from reconocerResiduos7 import programa
-from conclusiones8 import conclusiones
-from referencias9 import referencias
-from desarrollador10 import desarrollador
+from reconocerResiduos7 import programa #Listo
+from conclusiones8 import conclusiones #Listo
+from referencias9 import referencias #Listo
+from desarrollador10 import desarrollador #Listo
 
 #Menu
 while True:

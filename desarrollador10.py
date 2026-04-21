@@ -1,2 +1,2 @@
 def desarrollador():
-    print("10")
+    print("Este proyecto fue desarrollado por Juan Jose Mejia Moreno del curso 11A en solitario")

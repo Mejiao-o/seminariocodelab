@@ -1,2 +1,2 @@
 def referencias():
-    print("9")
+    print("Para desarrollar el proyecto consultamos principalmente la documentacion de ultralytics, ademas de algunos tutoriales y videos relacionados con el tema, principalmente el video de Hector Hugo Torres Ortega sobre la calsificacion de imagenes con ultralytics, el cual se puede encontrar en youtube con el titulo 'Clasificación de imágenes con Ultralytics YOLOv8 | Tutorial en español' Ademas del material suministrado por el profesor a cargo del proyecto")

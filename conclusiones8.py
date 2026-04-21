@@ -1,2 +1,5 @@
 def conclusiones():
-    print("8")
+    print("Fue posible reconocer los residuos solidos con una precision del 90% aproximadamente, un resultado considerablemente bueno teniendo en cuenta ciertas limitacion en cuanto a tiempo y en cuanto a potencia con las que se conto al desarrollar el proyecto")
+    print("El modelo se entreno con un total de aproximadamente 300 imaganes, lo cual se consideraria un nomero particularmente bajo para esta tarea sin embargo el resultado fue suficiente")
+    print("sin embargo se podria mejorar el resultado con un mayor numero de datos de entrenamiento, ademas de datos mas variados con el fin de evitar el sobreajuste y mejorar la capacidad de generalizacion del modelo")
+    print("si bien es incierto que tan bien reconocera el modelo los residuos en un entorno real, se espera que el resultado sea bueno teniendo en cuenta el funcionamiento de la IA en general y el resultado obtenido en las pruebas realizadas durante el desarrollo del proyecto")
